@@ -1,19 +1,20 @@
 <div align="center">
 
-<br>
-
-# FUZAIL
-
-<sub>INFORMATION TECHNOLOGY STUDENT</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=220&section=header&text=FUZAIL&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student&descAlignY=56&descSize=18&descColor=8a8a8a" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=300&size=22&duration=3000&pause=1000&color=8A8A8A&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;Designing+AI-powered+solutions;Engineering+scalable+software+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=300&size=21&duration=3500&pause=1200&color=8A8A8A&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Designing+AI-powered+solutions;Engineering+scalable+software+systems;Turning+ideas+into+products" alt="Typing SVG" />
 
 <br>
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=FuzailFr&label=PROFILE+VIEWS&color=0d0d0d&style=flat&labelColor=000000)
+<img src="https://komarev.com/ghpvc/?username=FuzailFr&label=PROFILE%20VIEWS&color=0d0d0d&style=flat-square&labelColor=000000" alt="Profile Views"/>
+
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 
 </div>
 
@@ -23,7 +24,7 @@
 
 <br>
 
-## About
+## &nbsp;About
 
 <br>
 
@@ -31,12 +32,37 @@ I am passionate about software engineering, backend development, artificial inte
 
 <br>
 
-<table border="0">
-<tr>
-<td>
+> **Focus** &nbsp;·&nbsp; Software Engineering &nbsp;·&nbsp; Backend Systems &nbsp;·&nbsp; Artificial Intelligence
 
-**Focus**
-Software Engineering &nbsp;·&nbsp; Backend Systems &nbsp;·&nbsp; Artificial Intelligence
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1px">
+
+<br>
+
+## &nbsp;Featured Work
+
+<br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100%">
+
+**Smart Waste Management**
+<br>
+<sub>AI-powered waste classification system for sustainable waste management.</sub>
+
+<br><br>
+
+**ZailTrack**
+<br>
+<sub>Location tracking and management system developed using PHP.</sub>
+
+<br><br>
+
+**Rouve-Co.**
+<br>
+<sub>Modern responsive company profile website.</sub>
 
 </td>
 </tr>
@@ -48,30 +74,7 @@ Software Engineering &nbsp;·&nbsp; Backend Systems &nbsp;·&nbsp; Artificial In
 
 <br>
 
-## Featured Work
-
-<br>
-
-### Smart Waste Management
-AI-powered waste classification system for sustainable waste management.
-
-<br>
-
-### ZailTrack
-Location tracking and management system developed using PHP.
-
-<br>
-
-### Rouve-Co.
-Modern responsive company profile website.
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1px">
-
-<br>
-
-## Stack
+## &nbsp;Stack
 
 <br>
 
@@ -100,13 +103,13 @@ Modern responsive company profile website.
 
 <br>
 
-## Currently Exploring
+## &nbsp;Currently Exploring
 
 <br>
 
 <div align="center">
 
-`Artificial Intelligence`   `Machine Learning`   `Cloud Computing`   `Next.js`   `System Design`
+<img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=300&size=16&duration=2200&pause=800&color=8A8A8A&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Cloud+Computing;Next.js;System+Design" alt="Currently Learning"/>
 
 </div>
 
@@ -116,7 +119,7 @@ Modern responsive company profile website.
 
 <br>
 
-## Metrics
+## &nbsp;Metrics
 
 <br>
 
@@ -145,7 +148,7 @@ Modern responsive company profile website.
 
 <br>
 
-## Connect
+## &nbsp;Connect
 
 <br>
 
@@ -159,10 +162,6 @@ Modern responsive company profile website.
 
 <br>
 
-<div align="center">
-<sub>Designed with intention. Built with purpose.</sub>
-</div>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
