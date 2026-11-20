@@ -5,7 +5,7 @@
 
   <br /><br />
 
-  <h1>🌙 Fuzail Fazle Rabbi</h1>
+  <h1>Fuzail Fazle Rabbi</h1>
   <p><b>Software Engineer &bull; Information Technology Student</b></p>
 
   <p>
@@ -35,7 +35,7 @@
 
 ---
 
-### 🌌 Focus & Engineering
+### Focus & Engineering <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="22" alt="Tech" />
 
 - **Backend Architecture & Telemetry:** Building robust backend services, structured APIs, and status tracking systems with Python, PHP, and MySQL.
 - **Modern Web Applications:** Crafting fast, responsive interfaces using Next.js, React 19, and TypeScript.
@@ -43,7 +43,7 @@
 
 ---
 
-### 💻 Featured Repositories
+### Featured Repositories <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="22" alt="Repos" />
 
 <div align="center">
   <a href="https://github.com/FuzailFr/portfolio">
@@ -61,7 +61,7 @@
 
 ---
 
-### 📊 Night Activity & Stats
+### Night Activity & Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="22" alt="Stats" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FuzailFr&show_icons=true&theme=nightowl&border_radius=10" height="155" alt="GitHub Stats" />
@@ -70,5 +70,5 @@
 </p>
 
 <div align="center">
-  <sub>🌙 <i>"Engineering in silence under the moonlight."</i></sub>
+  <sub><i>"Engineering in silence under the moonlight."</i></sub>
 </div>
