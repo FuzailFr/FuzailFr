@@ -1,59 +1,92 @@
+<div align="center">
+
 # Fuzail Fazle Rabbi
+`@fuzailfr` &nbsp;•&nbsp; 🟢 Online &nbsp;•&nbsp; *Playing Visual Studio Code*
 
-Information Technology student and Software Engineer focusing on backend architecture, distributed web systems, and applied machine learning.
+<br />
 
-- Location: Indonesia
-- Portfolio: [github.com/FuzailFr/portfolio](https://github.com/FuzailFr/portfolio)
-- GitHub: [github.com/FuzailFr](https://github.com/FuzailFr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5865F2?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/FuzailFr/portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-2B2D31?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FuzailFr)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
----
+</div>
 
-### Selected Projects
+<br />
 
-- **[Personal Portfolio](https://github.com/FuzailFr/portfolio)**  
-  Performant personal portfolio website engineered with modern rendering patterns and clean layout hierarchy.  
-  `Next.js` `React 19` `Tailwind CSS`
-
-- **[Smart Waste Management](https://github.com/FuzailFr)**  
-  Computer vision pipeline for automated waste classification and sorting.  
-  `Python` `Machine Learning`
-
-- **[ZailTrack](https://github.com/FuzailFr/ZailTrack)**  
-  Integrated telemetry and location tracking system built for centralized status monitoring.  
-  `PHP` `MySQL` `JavaScript`
-
-- **[Antigravity Essentials](https://github.com/FuzailFr/antigravity-essentials)**  
-  Curated developer skill bundle focusing on token efficiency, code hygiene, and AI output humanization.  
-  `Open Source` `Python` `Markdown`
-
-- **[Rouve-Co](https://github.com/FuzailFr)**  
-  Lightweight corporate web interface optimized for Core Web Vitals and accessible navigation.  
-  `Next.js` `TypeScript`
+```json
+{
+  "user": "Fuzail Fazle Rabbi",
+  "status": "online",
+  "activity": {
+    "name": "Visual Studio Code",
+    "type": "Playing",
+    "details": "Building Backend Architectures & Practical AI",
+    "state": "Exploring distributed systems and modern web",
+    "location": "Indonesia"
+  }
+}
+```
 
 ---
 
-### Tech Stack
+### 💬 `#about-me`
 
-**Backend & Data**  
-<img src="https://img.shields.io/badge/Python-18181b?logo=python&logoColor=3776AB" height="20" />
-<img src="https://img.shields.io/badge/PHP-18181b?logo=php&logoColor=777BB4" height="20" />
-<img src="https://img.shields.io/badge/MySQL-18181b?logo=mysql&logoColor=4479A1" height="20" />
+> Information Technology student and Software Engineer with a primary focus on backend architecture, telemetry systems, and practical machine learning integrations.
 
-**Frontend & Web**  
-<img src="https://img.shields.io/badge/TypeScript-18181b?logo=typescript&logoColor=3178C6" height="20" />
-<img src="https://img.shields.io/badge/JavaScript-18181b?logo=javascript&logoColor=F7DF1E" height="20" />
-<img src="https://img.shields.io/badge/Next.js-18181b?logo=nextdotjs&logoColor=white" height="20" />
-<img src="https://img.shields.io/badge/Laravel-18181b?logo=laravel&logoColor=FF2D20" height="20" />
-<img src="https://img.shields.io/badge/Flask-18181b?logo=flask&logoColor=white" height="20" />
+---
+
+### 📦 `#featured-projects`
+
+> #### **[Personal Portfolio](https://github.com/FuzailFr/portfolio)**
+> Performant developer portfolio website engineered with modern rendering patterns and clean layout hierarchy.  
+> `Next.js` `React 19` `Tailwind CSS` &nbsp;•&nbsp; [View Repository](https://github.com/FuzailFr/portfolio)
+
+> #### **[Smart Waste Management](https://github.com/FuzailFr)**
+> Computer vision pipeline for automated waste classification and sorting.  
+> `Python` `OpenCV` `Machine Learning` &nbsp;•&nbsp; [View Repository](https://github.com/FuzailFr)
+
+> #### **[ZailTrack](https://github.com/FuzailFr/ZailTrack)**
+> Integrated telemetry and location tracking system built for centralized status monitoring.  
+> `PHP` `MySQL` `JavaScript` &nbsp;•&nbsp; [View Repository](https://github.com/FuzailFr/ZailTrack)
+
+> #### **[Antigravity Essentials](https://github.com/FuzailFr/antigravity-essentials)**
+> Curated developer skill bundle focusing on token efficiency, code hygiene, and AI output humanization.  
+> `Open Source` `Python` `Markdown` &nbsp;•&nbsp; [View Repository](https://github.com/FuzailFr/antigravity-essentials)
+
+> #### **[Rouve-Co](https://github.com/FuzailFr)**
+> Lightweight corporate web interface optimized for Core Web Vitals and accessible navigation.  
+> `Next.js` `TypeScript` &nbsp;•&nbsp; [View Repository](https://github.com/FuzailFr)
+
+---
+
+### 🛠️ `#tech-stack`
+
+**Backend & Core**  
+<img src="https://img.shields.io/badge/Python-5865F2?style=flat-square&logo=python&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/PHP-5865F2?style=flat-square&logo=php&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/MySQL-2B2D31?style=flat-square&logo=mysql&logoColor=5865F2" height="22" />
+
+**Frontend & Frameworks**  
+<img src="https://img.shields.io/badge/TypeScript-5865F2?style=flat-square&logo=typescript&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/JavaScript-5865F2?style=flat-square&logo=javascript&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Next.js-2B2D31?style=flat-square&logo=nextdotjs&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Laravel-5865F2?style=flat-square&logo=laravel&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Flask-2B2D31?style=flat-square&logo=flask&logoColor=white" height="22" />
 
 **DevOps & Tools**  
-<img src="https://img.shields.io/badge/Docker-18181b?logo=docker&logoColor=2496ED" height="20" />
-<img src="https://img.shields.io/badge/Linux-18181b?logo=linux&logoColor=FCC624" height="20" />
-<img src="https://img.shields.io/badge/Git-18181b?logo=git&logoColor=F05032" height="20" />
+<img src="https://img.shields.io/badge/Docker-5865F2?style=flat-square&logo=docker&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Linux-2B2D31?style=flat-square&logo=linux&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/Git-5865F2?style=flat-square&logo=git&logoColor=white" height="22" />
 
 ---
 
-### Connect
+### 🔗 `#direct-messages`
 
-<a href="https://github.com/FuzailFr/portfolio"><img src="https://img.shields.io/badge/Portfolio-18181b?logo=vercel&logoColor=white" height="20" /></a>
-<a href="https://github.com/FuzailFr"><img src="https://img.shields.io/badge/GitHub-18181b?logo=github&logoColor=white" height="20" /></a>
+<a href="https://github.com/FuzailFr/portfolio"><img src="https://img.shields.io/badge/Portfolio-5865F2?style=flat-square&logo=vercel&logoColor=white" height="24" /></a>
+<a href="https://github.com/FuzailFr"><img src="https://img.shields.io/badge/GitHub-2B2D31?style=flat-square&logo=github&logoColor=white" height="24" /></a>
+
+<br />
+
+<div align="center">
+  <sub>Triggered via <code>/user-info</code> &bull; Discord Theme Interface</sub>
+</div>
